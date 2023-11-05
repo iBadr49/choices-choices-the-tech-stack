@@ -4,7 +4,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 
 > <img width="1440" alt="Scherm­afbeelding 2023-11-05 om 11 06 20" src="https://github.com/iBadr49/choices-choices-the-tech-stack/assets/112857932/d05f4300-bb34-4eaa-a42c-f56dbabc0932">
 
-# Plantswap - Nuxt & Sanity
+# Plantswap - Nuxt.js & Sanity.io
 
 
 ## Inhoudsopgave
@@ -12,7 +12,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
@@ -34,8 +33,8 @@ Voor dit project is gebruikgemaakt van:
 
 **Tech:**
 
-- Nuxt
-- Sanity
+- Nuxt.js
+- Sanity.io
 - HTML
 - CSS
 - Javascript
