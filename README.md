@@ -19,7 +19,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
-Ik heb de plantswap stekjes overview page en detail page herbouwd met een nieuwe framework en headless CMS.
+Ik heb de overzichtspagina en detailpagina van de plantswap volledig opnieuw opgebouwd met behulp van een nieuw framework en een headless CMS.
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
